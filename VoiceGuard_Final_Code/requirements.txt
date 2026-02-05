@@ -1,5 +1,6 @@
 fastapi
 uvicorn
+gunicorn
 python-multipart
 pydub
 numpy
@@ -8,3 +9,5 @@ scipy
 soundfile
 slowapi
 python-json-logger
+
+
