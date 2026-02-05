@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pydub
+numpy
+librosa
+scipy
+soundfile
+slowapi
+python-json-logger
